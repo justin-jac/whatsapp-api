@@ -1,0 +1,23 @@
+{
+  "name": "api-wa",
+  "version": "1.0.0",
+  "description": "A simple WhatsApp API server.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "api",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "qrcode-terminal": "*",
+    "whatsapp-web.js": "*",
+    "dotenv": "*",
+    "fs-extra": "*"
+  }
+}
