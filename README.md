@@ -33,11 +33,7 @@ Before you begin, ensure you have the following installed:
 
 The server is configured using environment variables.
 
-1.  Create a `.env` file in the root of the project by copying the example file:
-    ```bash
-    cp .env.example .env
-    ```
-
+1.  Create a `.env` file in the root of the project
 2.  Open the `.env` file and add your configuration details.
 
     ```dotenv
